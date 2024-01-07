@@ -1,0 +1,12 @@
+Tile0,a,a,a,a
+Tile1,b,a,a,b
+Tile2,b,b,a,a
+Tile3,a,b,b,a
+Tile4,a,a,b,b
+Tile5,b,a,b,a
+Tile6,a,b,a,b
+Tile7,b,b,b,a
+Tile8,a,b,b,b
+Tile9,b,a,b,b
+Tile10,b,b,a,b
+Tile11,b,b,b,b
